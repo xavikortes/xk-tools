@@ -1,0 +1,38 @@
+{
+  "name": "xk-tools",
+  "version": "1.2.2",
+  "description": "Xk development tools",
+  "bin": {
+    "xk-lint": "./scripts/lint.sh",
+    "xk-lint-check": "./scripts/lint-check.sh",
+    "xk-format": "./scripts/format.sh",
+    "xk-format-check": "./scripts/format-check.sh",
+    "xk-test": "./scripts/test.sh"
+  },
+  "scripts": {
+    "lint": "./scripts/lint.sh .",
+    "lint-check": "./scripts/lint-check.sh .",
+    "format": "./scripts/format.sh .",
+    "format-check": "./scripts/format-check.sh .",
+    "test": "./scripts/test.sh ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.27.0",
+    "eslint-config-codely": "^2.1.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "jest": "^29.3.1",
+    "prettier": "^2.7.1",
+    "ts-jest": "^29.0.3",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.2.3",
+    "@types/node": "^18.11.9"
+  }
+}
