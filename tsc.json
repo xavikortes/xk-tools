@@ -12,6 +12,6 @@
     "noUnusedLocals": true,
     "outDir": "./dist"
   },
-  "include": ["../../src/**/**.ts", "../../tests/**/**.ts"],
+  "include": ["../../**/**.ts", "../../**/**.ts"],
   "exclude": ["../../node_modules"]
 }
