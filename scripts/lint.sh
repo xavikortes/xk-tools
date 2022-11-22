@@ -1,1 +1,1 @@
-eslint $@
+eslint --fix $@
