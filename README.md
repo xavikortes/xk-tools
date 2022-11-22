@@ -18,7 +18,7 @@ Then, config eslint, prettier, jest or typescript extending from default config:
 module.exports = require("./node_modules/xk-tools/eslint.js");
 ```
 
-**.prettierrc**
+**.prettierrc.js**
 ```
 module.exports = require("./node_modules/xk-tools/prettier.js");
 ```
