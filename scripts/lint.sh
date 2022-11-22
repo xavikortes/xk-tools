@@ -1,1 +1,1 @@
-eslint --fix $@
+../node_modules/.bin/eslint --fix $@

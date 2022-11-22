@@ -1,1 +1,1 @@
-prettier -w $@
+../node_modules/.bin/prettier -w $@

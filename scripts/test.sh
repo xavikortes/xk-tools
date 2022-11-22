@@ -1,1 +1,1 @@
-jest $@
+../node_modules/.bin/jest $@
