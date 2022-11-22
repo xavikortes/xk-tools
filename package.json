@@ -1,6 +1,6 @@
 {
   "name": "xk-tools",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "Xk development tools",
   "bin": {
     "xk-lint": "./scripts/lint.sh",

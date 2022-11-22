@@ -1,1 +1,1 @@
-../node_modules/.bin/eslint $@
+./node_modules/xk-tools/node_modules/.bin/eslint $@
