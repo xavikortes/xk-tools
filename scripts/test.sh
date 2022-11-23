@@ -1,1 +1,1 @@
-./node_modules/xk-tools/node_modules/.bin/jest $@
+jest $@
